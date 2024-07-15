@@ -32,10 +32,10 @@ _Mobile-friendly design inspired by the iPhone calculator._
 
 
 ## Repository Content
-[HTML File]  
-[CSS File]  
-[Javascript File]  
-[Favicon PNG]  
+[HTML File](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/index.html)  
+[CSS File](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/style.css)  
+[Javascript File](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/script.js)  
+[Favicon PNG](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/images/calculator-favicon.png)  
 
 ## Implementation Details
   * **HTML**: The structure of the calculator, including buttons and display areas.
@@ -43,9 +43,10 @@ _Mobile-friendly design inspired by the iPhone calculator._
   * **JavaScript**: Handles button clicks, updates the display, performs calculations, and manages errors.
 
 ## Demo
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://sharif-islam96403.github.io/Javascript-Calculator/).
 
-
+## Preview
+![JavaScript Calculator](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/images/preview.png)
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements and new features.
