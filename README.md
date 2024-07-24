@@ -28,7 +28,7 @@ _Mobile-friendly design inspired by the iPhone calculator._
   ```git clone https://github.com/sharif-islam96403/Javascript-Calculator.git```
 
 ### 2. Open the Project:
-  Navigate to the project directory and open the javascript_calculate.html file in your preferred web browser.
+  Navigate to the project directory and open the index.html file in your preferred web browser.
 
 
 ## Repository Content
