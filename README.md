@@ -25,11 +25,18 @@ _Mobile-friendly design inspired by the iPhone calculator._
 ## Usage
 
 ### 1. Clone the Repository:
-  ```git clone https://github.com/sharif-islam96403/Javascript-Calculator.git```
+  ```
+  git clone https://github.com/sharif-islam96403/Javascript-Calculator.git
+```
 
-### 2. Open the Project:
-  Navigate to the project directory and open the index.html file in your preferred web browser.
-
+### 2. Navigate to the project directory:
+ ```
+ cd Javascript-Calculator
+ ```
+### 3. Open the `index.html` file
+ ```
+ open index.html
+ ```
 
 ## Repository Content
 [HTML File](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/index.html)  
