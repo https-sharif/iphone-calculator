@@ -50,7 +50,7 @@ _Mobile-friendly design inspired by the iPhone calculator._
   * **JavaScript**: Handles button clicks, updates the display, performs calculations, and manages errors.
 
 ## Demo
-You can view a live demo of the project [here](https://sharif-islam96403.github.io/Javascript-Calculator/).
+You can view a live demo of the project [here](https://sharif-islam96403.github.io/iphone-calculator/).
 
 ## Preview
 ![JavaScript Calculator](https://github.com/sharif-islam96403/Javascript-Calculator/blob/main/images/preview.png)
