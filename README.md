@@ -1,12 +1,12 @@
-# Javascript-Calculator
+# iPhone Calculator
 
 A sleek and responsive JavaScript calculator inspired by the iPhone. Perfect for quick calculations with an intuitive button layout and error-free operation. This project demonstrates core JavaScript functionalities, DOM manipulation techniques, and responsive design principles.
 
 
 ## Features
 **Basic Operations**: _Perform addition, subtraction, multiplication, and division._  
-**Clear Screen**: _Reset the display to its initial state using the "AC" button._  
-**Delete**: _Remove the last entered character using the "del" button._  
+**Clear Screen**: _Reset the display to its initial state using the_ `AC` _button._  
+**Delete**: _Remove the last entered character using the_ `del` _button._  
 **Responsive Design**: _The calculator adjusts its layout based on the screen size, making it mobile-friendly._  
 **Error Handling**: _Displays an error message for invalid calculations._  
 **Keyboard Shortcuts**: _Supports various keyboard shortcuts for efficient usage._  
@@ -26,12 +26,12 @@ _Mobile-friendly design inspired by the iPhone calculator._
 
 ### 1. Clone the Repository:
   ```
-  git clone https://github.com/sharif-islam96403/Javascript-Calculator.git
+  git clone https://github.com/sharif-islam96403/iphone-calculator.git
 ```
 
 ### 2. Navigate to the project directory:
  ```
- cd Javascript-Calculator
+ cd iphone-calculator
  ```
 ### 3. Open the `index.html` file
  ```
